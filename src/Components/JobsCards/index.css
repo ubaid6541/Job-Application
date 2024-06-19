@@ -1,0 +1,50 @@
+.jobs-card-cont {
+    list-style: none;
+    margin-top: 20px;
+    color: white;
+}
+
+.jobs-card {
+    width: 90%;
+    background: rgb(81, 81, 81);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.icon-title-rating-cont {
+    display: flex;
+}
+
+.jobs-icon {
+    width: 65px;
+    height: 65px;
+    margin-right: 10px;
+}
+
+.jobs-title {
+    font-size: 23px;
+}
+
+.rating-icon {
+    color: gold;
+    margin-right: 8px;
+}
+
+.loaction-emp-package-cont {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.emp-package-text {
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.package {
+    font-size: 20px;
+}
+
+.jobs-link{
+    text-decoration: none;
+}

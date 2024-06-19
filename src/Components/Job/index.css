@@ -1,0 +1,24 @@
+.all-jobs-cont{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Jobs-main-cont{
+    width: 100%;
+    min-height: 100%;
+    background-color: black;
+}
+.filter-all-jobs-cont{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.filter-sec{
+    width: 30%;
+    min-height: 100vh;
+}
+.Jobs-sec{
+    width: 60%;
+    min-height: 100vh;
+}
